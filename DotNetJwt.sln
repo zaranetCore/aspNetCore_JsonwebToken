@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore_Jwt_Client", "src\Server&Client\DotNetCore_Jwt_Client\DotNetCore_Jwt_Client.csproj", "{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore_Jwt_Server", "src\Server&Client\DotNetCore_Jwt_Server\DotNetCore_Jwt_Server.csproj", "{DC32EC48-6C49-4AE3-A518-F447E09ED3C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Jwt.Token", "src\Verify&yourself\NetCore.Jwt.Token\NetCore.Jwt.Token\NetCore.Jwt.Token.csproj", "{7B5DD61E-60FA-444E-B90F-4395A709C0B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{CC7588E9-0A46-4D57-8A2F-6D018D7BB956}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity.Cookie", "Identity.Cookie", "{30F107B1-ABD7-4C19-B0B7-FDC971A63806}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore_Cookie_Sample", "src\Identity.Cookie\DotNetCore_Cookie_Sample\DotNetCore_Cookie_Sample.csproj", "{5432786D-FAF4-4014-9E90-C11DDD931F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5DD61E-60FA-444E-B90F-4395A709C0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5DD61E-60FA-444E-B90F-4395A709C0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5DD61E-60FA-444E-B90F-4395A709C0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5DD61E-60FA-444E-B90F-4395A709C0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A13D11CC-E5E7-467F-96A1-923F1BA1C8B1} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
+		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
+		{7B5DD61E-60FA-444E-B90F-4395A709C0B6} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
+		{5432786D-FAF4-4014-9E90-C11DDD931F28} = {30F107B1-ABD7-4C19-B0B7-FDC971A63806}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD3E1C18-DA89-472C-845C-73F7CBD11DF1}
+	EndGlobalSection
+EndGlobal

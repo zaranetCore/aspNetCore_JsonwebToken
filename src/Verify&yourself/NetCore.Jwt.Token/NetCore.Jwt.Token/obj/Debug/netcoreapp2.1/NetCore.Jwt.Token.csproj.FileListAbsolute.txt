@@ -1,0 +1,16 @@
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.csprojAssemblyReference.cache
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.RazorAssemblyInfo.cache
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.RazorAssemblyInfo.cs
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.AssemblyInfoInputs.cache
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.AssemblyInfo.cs
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\NetCore.Jwt.Token.deps.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\NetCore.Jwt.Token.runtimeconfig.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\NetCore.Jwt.Token.runtimeconfig.dev.json
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\NetCore.Jwt.Token.dll
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\bin\Debug\netcoreapp2.1\NetCore.Jwt.Token.pdb
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.RazorTargetAssemblyInfo.cache
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.dll
+C:\Users\haozi zhang\Downloads\NetCore.Jwt.Token\NetCore.Jwt.Token\obj\Debug\netcoreapp2.1\NetCore.Jwt.Token.pdb

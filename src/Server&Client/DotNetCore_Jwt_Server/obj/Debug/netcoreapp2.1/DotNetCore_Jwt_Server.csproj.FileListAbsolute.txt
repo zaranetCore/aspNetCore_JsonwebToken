@@ -1,0 +1,3 @@
+C:\Users\jyzysoft\Desktop\DotNetCore_Jwt\DotNetCore_Jwt_Server\obj\Debug\netcoreapp2.1\DotNetCore_Jwt_Server.csprojAssemblyReference.cache
+C:\Users\jyzysoft\Desktop\DotNetCore_Jwt\DotNetCore_Jwt_Server\obj\Debug\netcoreapp2.1\DotNetCore_Jwt_Server.AssemblyInfoInputs.cache
+C:\Users\jyzysoft\Desktop\DotNetCore_Jwt\DotNetCore_Jwt_Server\obj\Debug\netcoreapp2.1\DotNetCore_Jwt_Server.AssemblyInfo.cs
