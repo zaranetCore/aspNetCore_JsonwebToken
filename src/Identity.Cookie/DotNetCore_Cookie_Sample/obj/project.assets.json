@@ -6182,11 +6182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\DotNetCore_Cookie_Sample.csproj",
+      "projectUniqueName": "F:\\aspNetCore_JsonwebToken\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\DotNetCore_Cookie_Sample.csproj",
       "projectName": "DotNetCore_Cookie_Sample",
-      "projectPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\DotNetCore_Cookie_Sample.csproj",
+      "projectPath": "F:\\aspNetCore_JsonwebToken\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\DotNetCore_Cookie_Sample.csproj",
       "packagesPath": "C:\\Users\\haozi zhang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\obj\\",
+      "outputPath": "F:\\aspNetCore_JsonwebToken\\src\\Identity.Cookie\\DotNetCore_Cookie_Sample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\haozi zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",

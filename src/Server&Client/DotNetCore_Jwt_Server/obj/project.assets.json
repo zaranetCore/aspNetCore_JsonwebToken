@@ -6324,11 +6324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Server\\DotNetCore_Jwt_Server.csproj",
+      "projectUniqueName": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Server\\DotNetCore_Jwt_Server.csproj",
       "projectName": "DotNetCore_Jwt_Server",
-      "projectPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Server\\DotNetCore_Jwt_Server.csproj",
+      "projectPath": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Server\\DotNetCore_Jwt_Server.csproj",
       "packagesPath": "C:\\Users\\haozi zhang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Server\\obj\\",
+      "outputPath": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\haozi zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",

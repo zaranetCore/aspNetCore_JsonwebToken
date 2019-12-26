@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj": {}
+    "F:\\aspNetCore_JsonwebToken\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj": {
+    "F:\\aspNetCore_JsonwebToken\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj",
+        "projectUniqueName": "F:\\aspNetCore_JsonwebToken\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj",
         "projectName": "NetCore.Jwt.Token",
-        "projectPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj",
+        "projectPath": "F:\\aspNetCore_JsonwebToken\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\NetCore.Jwt.Token.csproj",
         "packagesPath": "C:\\Users\\haozi zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\obj\\",
+        "outputPath": "F:\\aspNetCore_JsonwebToken\\src\\Verify&yourself\\NetCore.Jwt.Token\\NetCore.Jwt.Token\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haozi zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",

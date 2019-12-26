@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jwt_Policy_Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Jwt_Policy_Demo.AuthMiddler.PolicyRequirement">
+            <summary>
+            Rights-carrying entity
+            </summary>
+        </member>
+        <member name="P:Jwt_Policy_Demo.AuthMiddler.PolicyRequirement.UserPermissions">
+            <summary>
+            User rights collection
+            </summary>
+        </member>
+        <member name="P:Jwt_Policy_Demo.AuthMiddler.PolicyRequirement.DeniedAction">
+            <summary>
+            No permission action
+            </summary>
+        </member>
+        <member name="M:Jwt_Policy_Demo.AuthMiddler.PolicyRequirement.#ctor">
+            <summary>
+            structure
+            </summary>
+        </member>
+        <member name="F:Jwt_Policy_Demo.Const.SecurityKey">
+            <summary>
+            这里为了演示，写死一个密钥。实际生产环境可以从配置文件读取,这个是用网上工具随便生成的一个密钥
+            </summary>
+        </member>
+        <member name="F:Jwt_Policy_Demo.Const.Domain">
+            <summary>
+            站点地址
+            </summary>
+        </member>
+        <member name="F:Jwt_Policy_Demo.Const.ValidAudience">
+            <summary>
+            受理人，之所以弄成可变的是为了用接口动态更改这个值以模拟强制Token失效
+            真实业务场景可以在数据库或者redis存一个和用户id相关的值，生成token和验证token的时候获取到持久化的值去校验
+            如果重新登陆，则刷新这个值
+            </summary>
+        </member>
+        <member name="M:Jwt_Policy_Demo.Controllers.AuthController.Get(System.String,System.String)">
+            <summary>
+            login
+            </summary>
+            <param name="userName">只能用user或者</param>
+            <param name="pwd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Jwt_Policy_Demo.Controllers.AuthController.CheckAccount(System.String,System.String,System.String@)">
+            <summary>
+            模拟登陆校验，因为是模拟，所以逻辑很‘模拟’
+            </summary>
+            <param name="userName"></param>
+            <param name="pwd"></param>
+            <param name="role"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Jwt_Policy_Demo.Controllers.ValuesController.Get2">
+            该接口用Authorize特性做了权限校验，如果没有通过权限校验，则http返回状态码为401
+        </member>
+        <member name="M:Jwt_Policy_Demo.Controllers.ValuesController.Get3">
+             这个接口必须用admin
+            
+        </member>
+    </members>
+</doc>

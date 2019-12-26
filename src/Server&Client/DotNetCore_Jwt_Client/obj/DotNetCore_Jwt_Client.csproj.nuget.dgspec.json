@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj": {}
+    "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj": {
+    "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj",
+        "projectUniqueName": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj",
         "projectName": "DotNetCore_Jwt_Client",
-        "projectPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj",
+        "projectPath": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Client\\DotNetCore_Jwt_Client.csproj",
         "packagesPath": "C:\\Users\\haozi zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haozi zhang\\Downloads\\aspNetCore_JsonwebToken-master\\src\\Server&Client\\DotNetCore_Jwt_Client\\obj\\",
+        "outputPath": "F:\\aspNetCore_JsonwebToken\\src\\Server&Client\\DotNetCore_Jwt_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haozi zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",

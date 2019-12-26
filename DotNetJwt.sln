@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity.Cookie", "Identity
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore_Cookie_Sample", "src\Identity.Cookie\DotNetCore_Cookie_Sample\DotNetCore_Cookie_Sample.csproj", "{5432786D-FAF4-4014-9E90-C11DDD931F28}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetJwt_Policy", "DotNetJwt_Policy", "{B957315F-9A78-4C4C-9504-138777641728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jwt_Policy_Demo", "Jwt_Policy_Demo\Jwt_Policy_Demo.csproj", "{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5432786D-FAF4-4014-9E90-C11DDD931F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,8 @@ Global
 		{DC32EC48-6C49-4AE3-A518-F447E09ED3C2} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
 		{7B5DD61E-60FA-444E-B90F-4395A709C0B6} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
 		{5432786D-FAF4-4014-9E90-C11DDD931F28} = {30F107B1-ABD7-4C19-B0B7-FDC971A63806}
+		{B957315F-9A78-4C4C-9504-138777641728} = {2B5F359F-8D98-40D5-8BF9-D06738AF4BE6}
+		{78BC0B7E-8E1A-4CEC-A640-EFE056F25B84} = {B957315F-9A78-4C4C-9504-138777641728}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD3E1C18-DA89-472C-845C-73F7CBD11DF1}
