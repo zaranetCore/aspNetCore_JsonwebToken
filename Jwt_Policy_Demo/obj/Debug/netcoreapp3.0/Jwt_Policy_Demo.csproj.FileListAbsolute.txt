@@ -109,6 +109,6 @@ C:\Users\haozi zhang\Downloads\aspNetCore_JsonwebToken-master\src\Identity.Cooki
 C:\Users\haozi zhang\Downloads\aspNetCore_JsonwebToken-master\src\Identity.Cookie\DotNetCore_Cookie_Sample\bin\netcoreapp3.0\Jwt_Policy_Demo.dll
 C:\Users\haozi zhang\Downloads\aspNetCore_JsonwebToken-master\src\Identity.Cookie\DotNetCore_Cookie_Sample\bin\netcoreapp3.0\Jwt_Policy_Demo.pdb
 C:\Users\haozi zhang\Downloads\aspNetCore_JsonwebToken-master\src\Identity.Cookie\DotNetCore_Cookie_Sample\bin\netcoreapp3.0\Jwt_Policy_Demo.xml
-F:\aspNetCore_JsonwebToken\Jwt_Policy_Demo\obj\Debug\netcoreapp3.0\Jwt_Policy_Demo.csprojAssemblyReference.cache
 F:\aspNetCore_JsonwebToken\Jwt_Policy_Demo\obj\Debug\netcoreapp3.0\Jwt_Policy_Demo.MvcApplicationPartsAssemblyInfo.cs
 F:\aspNetCore_JsonwebToken\Jwt_Policy_Demo\obj\Debug\netcoreapp3.0\Jwt_Policy_Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\aspNetCore_JsonwebToken\Jwt_Policy_Demo\bin\Debug\netcoreapp3.0\Dockerfile
